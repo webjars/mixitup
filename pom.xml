@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>mixitup</artifactId>
-    <version>2.1.7</version>
+    <version>2.1.8-SNAPSHOT</version>
     <name>MixItUp</name>
     <description>WebJar for MixItUp</description>
     <url>http://webjars.org</url>
@@ -58,7 +58,7 @@
         <url>http://github.com/webjars/mixitup</url>
         <connection>scm:git:https://github.com/webjars/mixitup.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/mixitup.git</developerConnection>
-        <tag>mixitup-2.1.7</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <dependencies>
